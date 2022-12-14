@@ -1,7 +1,7 @@
 ## Let's start with React => Components, Props, State and filtering
 
 Premièrement, clone le *repo* et execute npm install.
-Sur le repo, vous pouvez voir une branche correction. Sur la branche correction, chaque commit (cf history => https://github.com/jujuck/Robot-finder/commits/correction) correspond à une étape du projet. Vous pouvez donc comparez votre code à la correction, à chaque étape du projet.
+
 
 ## Un petit tour d'horizon
 Tu trouveras dans le dossier src, le fichier app.js (Point d'entrée de l'application). Celui ci importe le jeux de données que nous allons utiliser et qui est stocké dans un fichier *data.json* dans le dossier data. C'est un tableau de 10 fiches d'identité de robot.
